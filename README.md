@@ -5,7 +5,6 @@
 ```
 yarn add --dev jest babel-jest @babel/preset-env @babel/preset-react 
 yarn add --dev @testing-library/react @types/jest jest-environment-jsdom
-yarn add @testing-library/jest-dom
 
 ```
 
